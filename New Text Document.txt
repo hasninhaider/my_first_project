@@ -7,7 +7,7 @@
 5.git commit -m "first commit"
 6.git push -u origin main
 useranam: 
-passord: 
+passord:        
 
 
 
