@@ -1,0 +1,13 @@
+1.cd c://hasnin/myproject
+2.git config --global user.name "hasnin"
+3.git config --global user.email "hasnin@123"
+4.git remote add https://github.com/hasninhaider/my_first_project.git
+4.git add .         #it mean to add your code in stagin area 
+5.git status 
+5.git commit -m "first commit"
+6.git push -u origin main
+useranam: 
+passord: 
+
+
+
